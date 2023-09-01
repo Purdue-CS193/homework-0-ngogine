@@ -25,6 +25,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Neha's First CS193 Homework
+
+- CS 193 is taught by TAs, which lightens the vibe of the class!
+- CS 193 has a smaller class size, which makes it easier to get to know more people!
+- CS 193 is not a stressful class!
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
